@@ -1,795 +1,434 @@
 [
-    {
-        "baslik": "Disiplin Motivasyondan Üstündür",
-        "metin": "Motivasyon gelir ve geçer Ama disiplin istemediğin günlerde bile devam etmektir Başarı sadece kendini güçlü hissettiğin günlerde gelmez Asıl fark zorlandığın halde vazgeçmediğin günler oluşur"
-    },
-    {
-        "baslik": "Vazgeçmek İçin Çok Erken",
-        "metin": "Şu an zorlanıyor olabilirsin Belki sonuçları göremiyorsun Ama bu başarısız olduğun anlamına gelmez Biraz daha dayan Biraz daha devam et Çünkü vazgeçmek için henüz çok erken"
-    },
-    {
-        "baslik": "Kendine İnan",
-        "metin": "Bazen senden şüphe edenler olacak Bazen sen bile kendinden şüphe edeceksin Ama geçmişte başardığın şeyleri hatırla Bugüne kadar birçok zorluğu aştın Bunu da aşabilirsin Kendine inan ve yoluna devam et"
-    },
-    {
-        "baslik": "Bugün Başla",
-        "metin": "Mükemmel zamanı bekleme Çünkü mükemmel zaman çoğu zaman gelmez Elindeki imkanlarla bugün bir adım at Küçük olması önemli değil Önemli olan başlaman Büyük değişimler küçük adımlarla başlar"
-    },
-    {
-        "baslik": "Yavaş Ama Kararlı",
-        "metin": "Hızlı ilerlemek zorunda değilsin Bazen küçük adımlar yeterlidir Bugün bir adım at Yarın bir adım daha at Zamanla ne kadar yol aldığını göreceksin Önemli olan tamamen durmamaktır"
-    },
-    {
-        "baslik": "Zor Günlerde Güçlü Kal",
-        "metin": "Kolay günlerde herkes güçlü olabilir Asıl güç zor günlerde ortaya çıkar Canın istemese bile devam et Sonuç göremesen bile çalış Çünkü bugün verdiğin mücadele yarın sana güç verecek"
-    },
-    {
-        "baslik": "Hayallerinden Vazgeçme",
-        "metin": "Bir hayalin varsa onun peşinden git İnsanlar ne der diye düşünme Yol uzun olabilir Sonuç hemen gelmeyebilir Ama her adım seni hedefinin biraz daha yakınına götürür Yeter ki yürümeye devam et"
-    },
-    {
-        "baslik": "Pes Etmek Kolaydır",
-        "metin": "Pes etmek her zaman kolaydır Zor olan devam etmektir Herkes bıraktığında yürümeye devam etmektir Sonuç alamadığında tekrar denemektir Sen kolay olanı değil seni güçlendiren yolu seç"
-    },
-    {
-        "baslik": "Düşersen Yeniden Kalk",
-        "metin": "Düşebilirsin Hata yapabilirsin Planların istediğin gibi gitmeyebilir Bunların hiçbiri yolun sonu değildir Ayağa kalk Dersini al Ve yeniden devam et Çünkü güçlü olmak yeniden kalkabilmektir"
-    },
-    {
-        "baslik": "Sabretmeye Devam Et",
-        "metin": "Her emek hemen sonuç vermez Bazı şeylerin büyümesi zaman alır Bugün göremediğin sonuç yarın karşına çıkabilir Bu yüzden sabrını kaybetme Çalışmaya devam et Çünkü sabır seni hedefine yaklaştırır"
-    },
-    {
-        "baslik": "Kendine Bir Şans Ver",
-        "metin": "Geçmişte hata yapmış olabilirsin Yanlış kararlar vermiş olabilirsin Ama bunlar geleceğini belirlemek zorunda değil Kendine yeni bir şans ver Yeniden başla Bu kez daha güçlü ilerle"
-    },
-    {
-        "baslik": "Yoruldun Diye Bırakma",
-        "metin": "Yorulabilirsin Bazen durup nefes alabilirsin Ama yorulmak vazgeçmek değildir Biraz dinlen Kendini toparla Sonra yeniden devam et Çünkü hedefin birkaç zor gün yüzünden kaybolmamalı"
-    },
-    {
-        "baslik": "Kendini Başkalarıyla Kıyaslama",
-        "metin": "Herkesin yolu farklıdır Herkes aynı hızda ilerlemez Başkasının hayatına bakıp kendini küçümseme Sen kendi yoluna odaklan Dünkü halinden daha iyi olmaya çalış Gerçek gelişim budur"
-    },
-    {
-        "baslik": "Korkuna Rağmen İlerle",
-        "metin": "Korkmak normaldir Herkes zaman zaman korkar Ama korktuğun için durmak zorunda değilsin Bir adım at Sonra bir adım daha at Cesaret korkuya rağmen ilerleyebilmektir"
-    },
-    {
-        "baslik": "Kimse Görmese De Çalış",
-        "metin": "Kimse verdiğin mücadeleyi görmeyebilir Kimse seni alkışlamayabilir Ama sen devam et Çünkü yaptığın şeyleri başkaları için değil kendi geleceğin için yapıyorsun Bugün görünmeyen emeğin yarın sonuç olacak"
-    },
-    {
-        "baslik": "Bahaneleri Bırak",
-        "metin": "Her zaman bir bahane bulabilirsin Zamanım yok diyebilirsin Şartlar uygun değil diyebilirsin Ama bahaneler seni hedefe götürmez Çözüm aramaya başla Elindeki imkanlarla hareket et"
-    },
-    {
-        "baslik": "Zor Olanı Seç",
-        "metin": "Kolay olan her zaman seni geliştirmez Bazen zor olanı seçmen gerekir Daha fazla çalış Daha sabırlı ol Korkularının üzerine git Çünkü zorlandığın yerde gelişmeye başlarsın"
-    },
-    {
-        "baslik": "Zamanını Değerlendir",
-        "metin": "Zaman geri gelmez Bugün kaybettiğin saatleri yarın geri alamazsın Bu yüzden seni geliştiren şeylere zaman ayır Kendine yatırım yap Her gün küçük bir ilerleme sağla Geleceğin bugün verdiğin kararlarla oluşuyor"
-    },
-    {
-        "baslik": "Hedefini Unutma",
-        "metin": "Yol uzadığında neden başladığını unutma Yorulduğunda hedefini hatırla Çünkü bazen devam etmeni sağlayan şey hedefindir Gözlerini hedefine çevir Bir adım daha at Ve yoluna devam et"
-    },
-    {
-        "baslik": "Bugün Vazgeçme",
-        "metin": "Bugün her şey istediğin gibi gitmemiş olabilir Yorulmuş olabilirsin Hayal kırıklığı yaşayabilirsin Ama kötü bir gün yüzünden bütün yolundan vazgeçme Dinlen Kendini toparla Ve yeniden başla"
-    },
-    {
-        "baslik": "Sonuna Kadar Devam Et",
-        "metin": "Başladığın işi yarıda bırakmak kolaydır Ama asıl güç sonuna kadar gidebilmektir Yol boyunca zorluklar çıkacak Bazen yavaşlayacaksın Bazen yeniden başlayacaksın Ama devam ettiğin sürece hedefinden vazgeçme"
-    },
-    {
-        "baslik": "Kendini Küçümseme",
-        "metin": "Bugün istediğin yerde olmayabilirsin Ama bu değersiz olduğun anlamına gelmez Geçtiğin yolları hatırla Atlattığın zorlukları düşün Sandığından çok daha güçlüsün Kendine biraz daha güven"
-    },
-    {
-        "baslik": "Her Gün Biraz Daha İyi Ol",
-        "metin": "Her gün mükemmel olmak zorunda değilsin Sadece biraz daha iyi olmaya çalış Dün yapamadığını bugün tekrar dene Her hata sana bir şey öğretir Her adım seni daha güçlü hale getirir"
-    },
-    {
-        "baslik": "Kendine Verdiğin Sözü Tut",
-        "metin": "Başkalarına verdiğin sözleri tuttuğun gibi kendine verdiğin sözleri de tut Bir hedef belirlediysen onun arkasında dur Canın istemediğinde bile devam et Çünkü kendine olan güvenin böyle güçlenir"
-    },
-    {
-        "baslik": "Ertelemeyi Bırak",
-        "metin": "Yarın yaparım dediğin her şey zamanla birikir Sonra hedeflerin daha da uzaklaşır Bugün yapabileceğin küçük bir işi yarına bırakma Harekete geçmek için mükemmel zamanı bekleme En iyi başlangıç bugündür"
-    },
-    {
-        "baslik": "Sessizce Çalış",
-        "metin": "Herkese hedeflerini anlatmak zorunda değilsin Bazen en güçlü cevap sessizce çalışmaktır Kendini kanıtlamak için konuşmana gerek yok Emeğin sonuç verdiğinde zaten her şey anlaşılacak"
-    },
-    {
-        "baslik": "Kendin İçin Çalış",
-        "metin": "Başkalarının seni fark etmesi için değil kendin için çalış Alkış gelmese de devam et Takdir edilmesen de emeğini sürdür Çünkü sonunda yaşayacağın hayat senin olacak"
-    },
-    {
-        "baslik": "Başarısızlıktan Korkma",
-        "metin": "Başarısız olmak yolun sonu değildir Bazen kaybedersin Bazen hata yaparsın Ama her deneyim sana yeni bir şey öğretir Yeniden denemekten korkma Çünkü asıl kayıp hiç denememektir"
-    },
-    {
-        "baslik": "Kendine Zaman Tanı",
-        "metin": "Her şey hemen değişmek zorunda değil Kendine zaman tan Büyük hedefler bir gecede gerçekleşmez Sabırlı ol Çalışmaya devam et Zamanla bugün küçük görünen adımların büyük sonuçlara dönüştüğünü göreceksin"
-    },
-    {
-        "baslik": "Konfor Alanından Çık",
-        "metin": "Rahat olduğun yerde kalmak kolaydır Ama gelişim çoğu zaman konfor alanının dışında başlar Yeni şeyler dene Korktuğun adımları at Kendini zorla Çünkü sınırlarını aşmadan yeni bir seviyeye ulaşamazsın"
-    },
-    {
-        "baslik": "İlk Adımı At",
-        "metin": "Büyük bir hedef gözünü korkutabilir Nereden başlayacağını bilemeyebilirsin O zaman sadece ilk adıma odaklan Her şeyi bugün çözmek zorunda değilsin Önce başla Sonrası zamanla gelecektir"
-    },
-    {
-        "baslik": "Karanlık Günler Geçer",
-        "metin": "Bazı günler hiçbir şey düzelmeyecek gibi gelebilir Ama hiçbir gece sonsuza kadar sürmez Bugün zor olabilir Yarın farklı olabilir Sabret Kendine güven Ve güzel günlerin geleceğine inan"
-    },
-    {
-        "baslik": "Gücünü Hatırla",
-        "metin": "Daha önce zor zamanlardan geçtin Ve hepsini atlattın Bugün yaşadığın sorun da geçecek Geçmişteki gücünü hatırla Kendine güven Bir adım daha at Çünkü düşündüğünden daha güçlüsün"
-    },
-    {
-        "baslik": "Hedefin İçin Fedakarlık Yap",
-        "metin": "Büyük hedefler bazen fedakarlık ister Daha az eğlenmen Daha fazla çalışman gerekebilir Bugün verdiğin bazı şeylerden vazgeçmek yarının sonucunu değiştirebilir Hedefin senin için önemliyse onun için emek vermekten korkma"
-    },
-    {
-        "baslik": "Bugünkü Emeğini Küçümseme",
-        "metin": "Bugün yaptığın küçük bir çalışma sana önemsiz gelebilir Ama her tekrar seni ileri taşır Her çaba bir iz bırakır Bugün sonucu göremesen bile emeğini küçümseme Çünkü başarı küçük adımların birleşimidir"
-    },
-    {
-        "baslik": "Kendi Yolunu Çiz",
-        "metin": "Herkesin gittiği yolu takip etmek zorunda değilsin Senin hedeflerin sana ait Kendi kararlarını ver Kendi yolunu çiz Başkalarının hayatını yaşamak yerine kendi hayallerin için mücadele et"
-    },
-    {
-        "baslik": "İmkansız Demeden Önce Dene",
-        "metin": "Bir şeyi yapamayacağını düşünmeden önce dene Belki sandığından daha güçlü olduğunu göreceksin Belki ilk denemede olmayacak Ama ikinci kez denersin Sonra bir kez daha denersin Önemli olan denemeye devam etmektir"
-    },
-    {
-        "baslik": "Küçük Başarıları Kutla",
-        "metin": "Her başarı büyük olmak zorunda değil Bugün attığın küçük bir adım bile değerlidir Kendine bunu hatırlat Küçük ilerlemeleri fark et Çünkü büyük hedeflere ulaşmak birçok küçük başarının birleşmesiyle mümkün olur"
-    },
-    {
-        "baslik": "Bugünün Zorluğu Yarının Gücü",
-        "metin": "Bugün seni zorlayan şey yarın seni daha güçlü yapabilir Yaşadığın her mücadele sana yeni bir deneyim kazandırır Bu yüzden zorluklardan kaçma Onlardan öğren Ve yoluna daha güçlü devam et"
-    },
-    {
-        "baslik": "Kendini Toparla",
-        "metin": "Bazen her şey istediğin gibi gitmez Böyle zamanlarda kendine kızma Biraz dur Biraz düşün Sonra yeniden toparlan Ve yoluna devam et Bir kötü gün bütün hayatını belirlemek zorunda değil"
-    },
-    {
-        "baslik": "Bugün Dünden Daha Güçlüsün",
-        "metin": "Yaşadığın her zorluk seni değiştirdi Belki bunu fark etmiyorsun Ama artık dün olduğun kişi değilsin Daha fazla deneyimin var Daha fazla tecrüben var Şimdi yeniden başlamak için daha güçlüsün"
-    },
-    {
-        "baslik": "Son Bir Kez Daha Dene",
-        "metin": "Vazgeçmek üzereysen kendine bir şans daha ver Son bir kez daha dene Belki bu kez farklı olacak Belki eksik olan tek şey biraz daha sabırdı Bazen başarı vazgeçmek üzere olduğun anda gelir"
-    },
-    {
-        "baslik": "Kendine Engel Olma",
-        "metin": "Bazen önündeki en büyük engel başkaları değil kendi düşüncelerindir Yapamam diye başlamadan vazgeçme Önce dene Sonucu sonra düşün Kendine fırsat verirsen neler yapabileceğini görebilirsin"
-    },
-    {
-        "baslik": "Hayatını Değiştirmek İstiyorsan",
-        "metin": "Hayatının değişmesini istiyorsan önce günlük alışkanlıklarını değiştir Küçük kararlarını değiştir Zamanını nasıl kullandığını değiştir Çünkü büyük değişimler bir anda değil her gün yapılan küçük seçimlerle oluşur"
-    },
-    {
-        "baslik": "Mücadeleden Kaçma",
-        "metin": "Hayat her zaman kolay olmayacak Önüne engeller çıkacak Bazı günler mücadele etmek zorunda kalacaksın Ama her mücadele seni biraz daha güçlendirecek Kaçmak yerine yüzleş Ve kendine ne kadar güçlü olduğunu göster"
-    },
-    {
-        "baslik": "Kendine Güvenerek Yürü",
-        "metin": "Herkes senin yolunu anlamak zorunda değil Herkes hedeflerini desteklemek zorunda değil Sen neden başladığını biliyorsan yoluna devam et Başkalarının şüpheleri senin kararlarını belirlemesin"
-    },
-    {
-        "baslik": "Bugün Elinden Geleni Yap",
-        "metin": "Her şeyi aynı anda çözmek zorunda değilsin Bugün sadece elinden geleni yap Küçük de olsa bir adım at Sonra yarın yeniden devam et Çünkü sürekli atılan küçük adımlar zamanla büyük bir mesafe oluşturur"
-    },
-    {
-        "baslik": "Hayatını Erteleme",
-        "metin": "Sürekli doğru zamanı bekleme Çünkü hayat beklerken geçiyor Yapmak istediğin şey için bugün bir adım at Sevdiklerine zaman ayır Hayallerin için çalış Ve kendi hayatını daha fazla erteleme"
-    },
-    {
-        "baslik": "Kendine Karşı Sabırlı Ol",
-        "metin": "Değişmek zaman alır Kendinden bir anda her şeyi bekleme Hatalar yapabilirsin Yavaş ilerleyebilirsin Bunlar normaldir Kendine karşı sabırlı ol Yeter ki her gün biraz daha ileri git"
-    },
-    {
-        "baslik": "Kendi Gücünü Keşfet",
-        "metin": "İçinde sandığından daha büyük bir güç var Belki henüz fark etmedin Ama her zorlandığında biraz daha ortaya çıkıyor Kendine güven Ve sınırlarının düşündüğünden çok daha ileride olduğunu unutma"
-    },
-    {
-        "baslik": "Zorluklar Seni Durdurmasın",
-        "metin": "Önüne çıkan engeller yolun bittiğini göstermez Sadece daha dikkatli ilerlemen gerektiğini gösterir Her engelin bir çözümü vardır Yeter ki mücadele etmeyi bırakma"
-    },
-    {
-        "baslik": "Kendinle Yarış",
-        "metin": "Başkasından daha iyi olmak zorunda değilsin Kendinin daha iyi haline ulaşmaya çalış Dün yapamadığını bugün yapmaya çalış Gerçek başarı başkalarını geçmek değil kendi sınırlarını aşmaktır"
-    },
-    {
-        "baslik": "İçindeki Sesi Dinle",
-        "metin": "Herkes sana farklı bir yol gösterebilir Ama hangi yolu seçmek istediğini sen bilirsin İçindeki sese kulak ver Hedefini belirle Ve attığın adımların arkasında dur"
-    },
-    {
-        "baslik": "Bir Gün Daha Dayan",
-        "metin": "Bazen tek ihtiyacın olan şey biraz daha sabretmektir Bugün olmazsa yarın olabilir Sonuç hemen gelmese bile emeğin boşa gitmez Bir gün daha dayan Ve yoluna devam et"
-    },
-    {
-        "baslik": "Kendine Yeni Bir Sayfa Aç",
-        "metin": "Geçmişte ne yaşadığın artık geride kaldı Bugün önünde yeni bir gün var Eski hatalarını yanında taşımak zorunda değilsin Yeni bir karar ver Ve hayatında yeni bir sayfa aç"
-    },
-    {
-        "baslik": "Hayatını Sen Şekillendir",
-        "metin": "Hayatındaki her şeyi kontrol edemezsin Ama verdiğin tepkileri kontrol edebilirsin Şartları değiştiremiyorsan bakış açını değiştir Ve elindeki imkanlarla ilerlemeye devam et"
-    },
-    {
-        "baslik": "Çabanın Karşılığı Var",
-        "metin": "Bugün verdiğin emek hemen görünmeyebilir Ama hiçbir çaba tamamen kaybolmaz Her tekrar seni geliştirir Her deneme sana deneyim kazandırır Sabırlı ol Ve çalışmaya devam et"
-    },
-    {
-        "baslik": "Zihnini Güçlendir",
-        "metin": "Bedenin yorulduğunda dinlenebilirsin Ama zihnindeki vazgeçme düşüncesine teslim olma Kendine olumlu konuş Hedefini hatırla Ve yapabileceğin şeylere odaklan"
-    },
-    {
-        "baslik": "Küçük Adımları Hafife Alma",
-        "metin": "Bugün attığın küçük bir adım sana önemsiz gelebilir Ama her büyük yol küçük adımlarla tamamlanır Acele etme İlerle Ve her gün biraz daha yaklaş"
-    },
-    {
-        "baslik": "Kendini Yeniden İnşa Et",
-        "metin": "Hayatında bazı şeyler yıkılmış olabilir Ama yeniden kurabilirsin Eksiklerini fark et Hatalarından öğren Ve daha güçlü bir şekilde yeniden başla"
-    },
-    {
-        "baslik": "Sınırlarını Zorla",
-        "metin": "Kendine koyduğun sınırların hepsi gerçek olmayabilir Bazen sadece korkularından oluşur Biraz daha ileri git Biraz daha fazla dene Ve neleri başarabileceğini gör"
-    },
-    {
-        "baslik": "İçindeki Umudu Kaybetme",
-        "metin": "Her şey kötü giderken bile içinde küçük bir umut bırak O umut seni yeniden ayağa kaldırabilir Bugün karanlık olabilir Ama yarının nasıl olacağını kimse bilemez"
-    },
-    {
-        "baslik": "Hedefine Odaklan",
-        "metin": "Dikkatini sürekli etrafındaki insanlara verme Kendi hedefine bak Ne kadar ilerlediğini takip et Ve seni hedefinden uzaklaştıran şeylerden mümkün olduğunca uzak dur"
-    },
-    {
-        "baslik": "Gecikmek Başarısızlık Değildir",
-        "metin": "Hedefine ulaşman beklediğinden uzun sürebilir Bu başarısız olduğun anlamına gelmez Her insanın zamanı farklıdır Önemli olan yoluna devam etmen Ve kendi hızında ilerlemen"
-    },
-    {
-        "baslik": "Kendini Affet",
-        "metin": "Geçmişte yaptığın hatalar için kendini sürekli suçlama Hatalarından ders çıkar Ama hayatının geri kalanını onlara teslim etme Kendini affet Ve yeniden ilerlemeye başla"
-    },
-    {
-        "baslik": "Bugün Bir Şey Değiştir",
-        "metin": "Hayatının tamamen değişmesini bekleme Bugün sadece bir alışkanlığını değiştir Bir işi daha erken yap Bir hedef için zaman ayır Küçük değişiklikler zamanla büyük sonuçlar oluşturur"
-    },
-    {
-        "baslik": "Mazeret Değil Kararlılık",
-        "metin": "Şartların istediğin gibi olmayabilir Ama kararlılığın senin elinde Bahane üretmek yerine elinden geleni yap Bugün sahip olduklarınla başlayarak yolunu oluştur"
-    },
-    {
-        "baslik": "Kendini Hafife Alma",
-        "metin": "Bazen kendi yeteneklerini başkalarının sözlerinden daha küçük görürsün Ama seni en iyi tanıyan kişi yine sensin Kendine fırsat ver Denemekten korkma Ve potansiyelini ortaya çıkar"
-    },
-    {
-        "baslik": "Her Sabah Yeni Bir Fırsat",
-        "metin": "Yeni bir güne uyandığında geçmişin seni yönetmek zorunda değil Bugün yeni kararlar verebilirsin Yeni hedefler belirleyebilirsin Her sabah kendin için yeni bir fırsattır"
-    },
-    {
-        "baslik": "Mücadele Gücünü Artırır",
-        "metin": "Hayatındaki her mücadele sana bir şey öğretir Zor günler sabrını geliştirir Hatalar deneyimini artırır Ve zamanla daha güçlü kararlar vermeni sağlar"
-    },
-    {
-        "baslik": "Kendine Yatırım Yap",
-        "metin": "Öğrenmeye zaman ayır Becerilerini geliştir Kendini tanımaya çalış Bugün kendin için yaptığın her yatırım gelecekte sana farklı kapılar açabilir"
-    },
-    {
-        "baslik": "Sonuç Değil Süreç",
-        "metin": "Sadece sonuca odaklanırsan yolun güzelliğini kaçırabilirsin Her gün öğrendiğin şeylere dikkat et Her gelişimini fark et Çünkü seni değiştiren şey sadece sonuç değil süreçtir"
-    },
-    {
-        "baslik": "Daha Güçlü Bir Sen",
-        "metin": "Bugünkü halin son halin değil Her gün değişebilir Her gün öğrenebilirsin Her gün daha güçlü bir insan olabilirsin Yeter ki gelişmeyi bırakma"
-    },
-    {
-        "baslik": "İmkansız Görüneni Dene",
-        "metin": "Bazı hedefler ilk bakışta çok büyük görünebilir Ama başlamadan ne kadar zor olduğunu bilemezsin Bir adım at Sonra bir adım daha at Belki düşündüğünden daha yakınsındır"
-    },
-    {
-        "baslik": "Kendine Sahip Çık",
-        "metin": "Zor zamanlarda kendini ihmal etme Dinlen Düşün Ve yeniden toparlan Kendine iyi davran Çünkü uzun bir yolculukta yanında olacak en önemli kişi yine sensin"
-    },
-    {
-        "baslik": "Bugünkü Kararın Önemli",
-        "metin": "Bugün verdiğin küçük bir karar gelecekte büyük bir değişime dönüşebilir Bir alışkanlığı bırakmak Bir hedefe başlamak Ya da yeniden denemek Bazen hayat tek bir kararla değişmeye başlar"
-    },
-    {
-        "baslik": "Kendi Hikayeni Yaz",
-        "metin": "Başkalarının senin hakkında ne düşündüğü hayatının tamamını belirlemesin Kendi hedeflerini seç Kendi kararlarını ver Ve kendi hikayeni istediğin şekilde yazmak için mücadele et"
-    },
-    {
-        "baslik": "Zaman Senin İçin Çalışsın",
-        "metin": "Bugün küçük görünen çalışmalar zamanla büyür Düzenli olarak emek verdiğinde sonuçlar birikmeye başlar Sabırlı ol Çünkü zaman doğru kullanıldığında en büyük destekçilerinden biri olabilir"
-    },
-    {
-        "baslik": "Geriye Bakma",
-        "metin": "Sürekli geçmişte yaşarsan önündeki yolu göremezsin Yaşadıklarından dersini al Ama gözlerini geleceğe çevir Önünde hâlâ yaşayacağın ve başaracağın çok şey var"
-    },
-    {
-        "baslik": "Kendine Güvenerek Başla",
-        "metin": "Her şeyi bilmek zorunda değilsin Bazen öğrenmenin en iyi yolu başlamaktır İlk adımı at Hatalarından öğren Ve yol boyunca kendini geliştirmeye devam et"
-    },
-    {
-        "baslik": "Zorlukların Ardındaki Güç",
-        "metin": "Bugün yaşadığın zorluk sana ağır gelebilir Ama bu süreç seni daha dayanıklı yapıyor Sabret Öğren Ve yaşadığın her mücadeleyi gelecekte kullanacağın bir güce dönüştür"
-    },
-    {
-        "baslik": "Harekete Geç",
-        "metin": "Düşünmek önemlidir Ama sadece düşünerek hedeflerine ulaşamazsın Bir karar ver Ve harekete geç İlk adım küçük olabilir Ama seni bulunduğun yerden çıkaracak olan yine o ilk adımdır"
-    },
-    {
-        "baslik": "Kendi Değerini Bil",
-        "metin": "Başarını başkalarının seni takdir etmesine bağlama Kendi emeğinin değerini bil Ne kadar yol aldığını fark et Ve kendine hak ettiğin saygıyı göstermeyi öğren"
-    },
-    {
-        "baslik": "Daha Fazlasını Yapabilirsin",
-        "metin": "Şu an sınırında olduğunu düşünebilirsin Ama bazen biraz daha devam ettiğinde yeni bir gücün ortaya çıkar Kendini dene Bir adım daha at Ve yapabileceklerinin sınırını yeniden keşfet"
-    },
-    {
-        "baslik": "Hayatında Yer Aç",
-        "metin": "Yeni şeyler istiyorsan eski alışkanlıklarından bazılarını bırakman gerekebilir Sana fayda sağlamayan şeylere daha az zaman ayır Hedeflerine ve gelişimine daha fazla yer aç"
-    },
-    {
-        "baslik": "Kötü Günlere Teslim Olma",
-        "metin": "Kötü bir gün kötü bir hayat anlamına gelmez Bugün yaşadığın sorun yarın geride kalabilir Duygularının seni tamamen yönetmesine izin verme Kendini toparla Ve yeniden dene"
-    },
-    {
-        "baslik": "Gücünü Boşa Harcama",
-        "metin": "Enerjini sürekli başkalarının ne yaptığına harcama Kendi gelişimine odaklan Kendi hedeflerin için çalış Çünkü değiştirebileceğin en önemli hayat kendi hayatındır"
-    },
-    {
-        "baslik": "Bir Adım Daha At",
-        "metin": "Tam vazgeçecekken bir adım daha at Bazen ihtiyaç duyduğun tek şey biraz daha sabırdır Sonucun hemen gelmemesi emeğinin boşa gittiğini göstermez Devam et"
-    },
-    {
-        "baslik": "Kendi Ritmini Bul",
-        "metin": "Herkes aynı hızda çalışmak zorunda değil Sana uygun olan düzeni bul Önemli olan sürdürebileceğin bir tempo oluşturmak Ve zaman içinde istikrarlı şekilde ilerlemektir"
-    },
-    {
-        "baslik": "Kendini Durdurma",
-        "metin": "Başlamadan önce başarısız olacağını düşünme Kendine engel koyma Denemek için kendine izin ver Çünkü bazen seni hedefinden uzaklaştıran en büyük şey kendi korkularındır"
-    },
-    {
-        "baslik": "Bugün Emeğini Ver",
-        "metin": "Gelecekte ne olacağını tamamen bilemezsin Ama bugün ne yapacağını seçebilirsin Bugün elinden gelen emeği ver Yarın için sağlam bir temel oluştur"
-    },
-    {
-        "baslik": "İlerlemenin Keyfini Çıkar",
-        "metin": "Sadece hedefe ulaşacağın günü bekleme Yol boyunca geliştiğini fark et Öğrendiklerini önemse Kazandığın küçük başarıların tadını çıkar Çünkü yolculuk da hedef kadar değerlidir"
-    },
-    {
-        "baslik": "Gücünü Geçmişten Al",
-        "metin": "Daha önce atlattığın zorlukları hatırla O günlerde de zorlanmıştın Ama bugün hâlâ buradasın Geçmişteki mücadelen sana bugün için güç verebilir"
-    },
-    {
-        "baslik": "Yeni Bir Karar Ver",
-        "metin": "Hayatından memnun olmadığın bir şey varsa değiştirmek için karar verebilirsin Küçük bir karar bile başlangıç olabilir Kendine yeni bir yön belirle Ve ilk adımı bugün at"
-    },
-    {
-        "baslik": "İstediğin Hayat İçin Çalış",
-        "metin": "Hayalini kurduğun hayat kendiliğinden oluşmayacak Onun için emek vermen gerekecek Zaman ayırman gerekecek Sabretmen gerekecek Ama attığın her adım seni istediğin hayata yaklaştırabilir"
-    },
-    {
-        "baslik": "Kendini Geliştirmekten Vazgeçme",
-        "metin": "Bugün bildiklerin yeterli olmayabilir Daha fazlasını öğrenmeye devam et Yeni şeyler dene Hatalarından ders çıkar Kendini geliştirdikçe önündeki seçenekler de artacaktır"
-    },
-    {
-        "baslik": "Bugün Bir Fark Oluştur",
-        "metin": "Her gün büyük bir değişim yapamazsın Ama bugün küçük bir fark oluşturabilirsin Bir işi tamamla Bir hedefe yaklaş Bir alışkanlığını geliştir Küçük farklar zamanla büyük değişimler getirir"
-    },
-    {
-        "baslik": "Gelecekteki Kendin İçin",
-        "metin": "Bugün yaptığın seçimleri gelecekteki halin yaşayacak O yüzden kendine yatırım yap Sağlıklı alışkanlıklar oluştur Öğrenmeye devam et Ve gelecekteki kendine güzel bir hayat bırak"
-    },
-    {
-        "baslik": "İçindeki Gücü Ortaya Çıkar",
-        "metin": "Sandığından daha güçlü olabilirsin Bazen bunu görmek için zor zamanlardan geçmen gerekir Kendine bir şans ver Korkularının üzerine git Ve içinde saklı olan gücü ortaya çıkar"
-    },
-    {
-        "baslik": "Hedefinden Uzaklaşma",
-        "metin": "Yol ne kadar uzarsa uzasın hedefini gözden kaybetme Yorulduğunda neden başladığını hatırla Önündeki engellere değil ulaşmak istediğin yere odaklan"
-    },
-    {
-        "baslik": "Kendine İyi Bir Gelecek Kur",
-        "metin": "Geleceğin bugün yaptığın seçimlerle şekilleniyor Her gün kendin için küçük bir şey yap Öğren Çalış Geliş Ve yarın daha güçlü bir hayat kur"
-    },
-    {
-        "baslik": "Beklemek Yerine Üret",
-        "metin": "Bir şeylerin değişmesini sadece bekleme Sen de değişimin bir parçası ol Yeni fikirler üret Yeni yollar dene Ve sahip olduğun zamanı hedeflerin için kullan"
-    },
-    {
-        "baslik": "Kendi Kararlarının Arkasında Dur",
-        "metin": "Bir hedef seçtiğinde sürekli başkalarının düşüncelerine göre yön değiştirme Neden başladığını hatırla Kararının arkasında dur Ve sonuç almak için yeterince zaman ver"
-    },
-    {
-        "baslik": "Zor Başlangıçlardan Korkma",
-        "metin": "Her başlangıç kolay olmak zorunda değil İlk günler zor geçebilir Alışman zaman alabilir Ama devam ettikçe güçlenirsin Başlangıçtaki zorluğun seni durdurmasına izin verme"
-    },
-    {
-        "baslik": "Bugün Kendin İçin Bir Şey Yap",
-        "metin": "Bugün sadece kendin için bir şey yap Bir hedefin için çalış Bir kitap oku Yeni bir şey öğren Ya da uzun zamandır ertelediğin bir işe başla Kendine ayırdığın zaman boşa gitmez"
-    },
-    {
-        "baslik": "Düşüncelerini Değiştir",
-        "metin": "Sürekli yapamayacağını düşünürsen daha başlamadan kendini durdurursun Bunun yerine ne yapabileceğine odaklan Çözüm ara Kendine fırsat ver Ve düşüncelerini hedeflerine göre şekillendir"
-    },
-    {
-        "baslik": "Kendini Toparlayıp Devam Et",
-        "metin": "Bazen planların bozulabilir Her şey ters gidebilir Böyle zamanlarda tamamen bırakma Durumu değerlendir Eksiklerini düzelt Ve kaldığın yerden yeniden devam et"
-    },
-    {
-        "baslik": "Bir Başlangıç Yeter",
-        "metin": "Hayatını değiştirmek için her şeyi aynı anda düzeltmen gerekmiyor Sadece bir yerden başla Bir alışkanlığını değiştir Bir hedef seç Ve ilk adımı at"
-    },
-    {
-        "baslik": "Kendine Karşı Dürüst Ol",
-        "metin": "Gerçekten ne istediğini kendine sor Hangi hedef için mücadele etmek istediğini düşün Sonra kararını ver Kendine dürüst olduğunda yolunu bulmak çok daha kolay olur"
-    },
-    {
-        "baslik": "Çalışmanın Gücüne İnan",
-        "metin": "Yetenek önemli olabilir Ama düzenli çalışma seni çok daha ileri götürebilir Her gün biraz daha öğren Her gün biraz daha geliştir Kendine yatırım yaptıkça farkı göreceksin"
-    },
-    {
-        "baslik": "Zamanını Hedefine Ayır",
-        "metin": "Hedeflerin varsa onlara zaman ayır Günün tamamını bekleyerek geçirme Her gün küçük bir süre bile olsa çalış Düzenli emek zamanla büyük sonuçlar oluşturur"
-    },
-    {
-        "baslik": "Kendine Güvenmeyi Öğren",
-        "metin": "Herkesten destek bekleme Önce kendine güvenmeyi öğren Kararlarının arkasında dur Hata yaptığında yeniden dene Çünkü kendi gücüne inandığında yolun daha sağlam olur"
-    },
-    {
-        "baslik": "Bugün Daha Cesur Ol",
-        "metin": "Seni korkutan küçük bir şey seç Ve bugün onun üzerine git Cesaret böyle gelişir Her denemede biraz daha rahat edersin Kendine güvenin arttıkça daha büyük adımlar atarsın"
-    },
-    {
-        "baslik": "Zor Zamanlarda Sabırlı Ol",
-        "metin": "Her sorun hemen çözülmeyebilir Bazı cevapların ortaya çıkması zaman alır Aceleyle karar verme Biraz bekle Biraz düşün Ve doğru zamanda doğru adımı at"
-    },
-    {
-        "baslik": "Hayalini Gerçeğe Dönüştür",
-        "metin": "Hayal kurmak güzeldir Ama hayalini gerçeğe dönüştüren şey harekettir Ne istediğini belirle Sonra bunun için çalış Her gün attığın adımlar seni hayaline yaklaştırır"
-    },
-    {
-        "baslik": "Başladığın Yere Bak",
-        "metin": "Bugün bulunduğun noktayı değerlendir Sonra başladığın günü hatırla Aradaki farkı gör Belki düşündüğünden daha fazla ilerledin Kendi gelişimini fark etmeyi unutma"
-    },
-    {
-        "baslik": "Kendine Yeni Hedefler Koy",
-        "metin": "Uzun süre aynı yerde kalma Kendine yeni hedefler belirle Öğrenmek istediğin bir şey seç Geliştirmek istediğin bir yönünü belirle Ve kendini sürekli ileri taşımaya çalış"
-    },
-    {
-        "baslik": "Başarıya Giden Yol",
-        "metin": "Başarıya giden yol her zaman düz değildir Bazen geri adım atarsın Bazen yönünü değiştirirsin Ama öğrendiklerin seni daha doğru bir yola götürebilir Yeter ki devam et"
-    },
-    {
-        "baslik": "Kendini Hafife Alma",
-        "metin": "Başarabileceğin şeyleri baştan küçümseme Kendine fırsat vermeden karar verme Denemeye başladığında gerçek kapasiteni daha iyi göreceksin Kendine güven Ve sınırlarını keşfet"
-    },
-    {
-        "baslik": "Daha İyi Bir Gün İçin",
-        "metin": "Bugün kötü geçmiş olabilir Ama yarın yeni bir gün olacak Bugünden dersini al Kendini toparla Ve yarına daha hazırlıklı başla Her yeni gün yeni bir fırsat taşıyabilir"
-    },
-    {
-        "baslik": "Kendini Kontrol Et",
-        "metin": "Her duygu kararlarını yönetmek zorunda değil Öfkeliyken bekle Korktuğunda düşün Yorulduğunda dinlen Sonra daha sakin bir şekilde yoluna devam et"
-    },
-    {
-        "baslik": "Kendi Değişimini Başlat",
-        "metin": "Dünyanın değişmesini beklemek yerine kendi hayatından başla Günlük düzenini değiştir Düşüncelerini geliştir Ve her gün seni daha ileri götürecek bir seçim yap"
-    },
-    {
-        "baslik": "Sadece Devam Et",
-        "metin": "Bazen ne yapacağını bilemeyebilirsin Böyle anlarda tamamen durmak yerine küçük bir adım at Hareket ettikçe yolunu daha net görmeye başlayacaksın"
-    },
-    {
-        "baslik": "Gücünü Doğru Kullan",
-        "metin": "Enerjini seni tüketen şeylere harcama Kendi hedeflerine yönel Öğrenmeye çalış Üretmeye çalış Ve sahip olduğun gücü seni ileri taşıyacak işler için kullan"
-    },
-    {
-        "baslik": "Kendine Bir Amaç Bul",
-        "metin": "Her gün sadece zaman geçirmek yerine kendine bir amaç belirle Bugün neyi tamamlayacağını bil Küçük bir hedef seç Ve günün sonunda o hedefe biraz daha yaklaş"
-    },
-    {
-        "baslik": "Hayatında Değişim Başlat",
-        "metin": "Değişim için her şeyin hazır olmasını bekleme Hazır değilsen bile başlayabilirsin Öğrendikçe gelişirsin Denedikçe güçlenirsin Önemli olan ilk hareketi yapmaktır"
-    },
-    {
-        "baslik": "Başarı İçin Sabır Gerekir",
-        "metin": "Büyük sonuçlar genellikle zaman ister Hemen karşılık alamadığında emeğini bırakma Bugün yaptığın çalışma gelecekteki başarının temelini oluşturabilir Sabırlı kal"
-    },
-    {
-        "baslik": "Kendini Daha İyi Tanı",
-        "metin": "Neleri sevdiğini Nelerde iyi olduğunu Ve hangi konularda gelişmen gerektiğini öğren Kendini tanıdıkça doğru kararlar vermen kolaylaşır Kendi yolunu daha net görürsün"
-    },
-    {
-        "baslik": "Küçük Bir Karar Al",
-        "metin": "Bugün hayatında değiştirmek istediğin tek bir şeyi seç Büyük planlara ihtiyacın yok Küçük bir karar al Ve o kararı uygulamaya başla Değişim böyle başlar"
-    },
-    {
-        "baslik": "Geleceğe Odaklan",
-        "metin": "Geçmişte yaşananları değiştiremezsin Ama geleceğin için bugün bir şey yapabilirsin Eski hatalara takılı kalma Önündeki fırsatlara bak Ve yeni adımlar at"
-    },
-    {
-        "baslik": "Kendini Geliştirmeye Devam Et",
-        "metin": "Bugün öğrendiğin küçük bir bilgi bile gelecekte işine yarayabilir Okumaya öğrenmeye ve denemeye devam et Bilgin arttıkça kendine olan güvenin de güçlenecektir"
-    },
-    {
-        "baslik": "Zamanı Geldiğinde Hazır Ol",
-        "metin": "Fırsatlar her zaman önceden haber vermez Bu yüzden kendini sürekli geliştir Bir gün karşına çıkan fırsatı değerlendirebilmek için bugünden hazırlanmaya başla"
-    },
-    {
-        "baslik": "Kendine Engel Koyma",
-        "metin": "Daha başlamadan yapamayacağını düşünme Önce dene Sonra eksiklerini gör Ve geliştirmeye çalış Kendine koyduğun sınırları kaldırdığında yeni imkanlar fark edebilirsin"
-    },
-    {
-        "baslik": "Bugün Biraz Daha İlerle",
-        "metin": "Dün olduğun yerde kalmak zorunda değilsin Bugün biraz daha öğren Biraz daha çalış Biraz daha cesur ol Küçük ilerlemeler zamanla büyük farklar oluşturur"
-    },
-    {
-        "baslik": "Mücadeleden Güç Kazan",
-        "metin": "Yaşadığın zorlukları sadece sorun olarak görme Onlardan bir şey öğren Her mücadele sana yeni bir deneyim kazandırabilir Ve seni geleceğe daha hazırlıklı hale getirebilir"
-    },
-    {
-        "baslik": "Kendine Güzel Bir Hayat Kur",
-        "metin": "Hayalini kurduğun hayat için bugün çalış Gelecekteki rahatlığın bugünkü çabanla oluşabilir Zamanını iyi kullan Kendini geliştir Ve istediğin hayat için sağlam adımlar at"
-    },
-    {
-        "baslik": "Biraz Daha Güçlü Ol",
-        "metin": "Bugün zorlanıyorsan kendine kızma Herkesin zorlandığı dönemler olur Önemli olan o dönemin seni tamamen durdurmasına izin vermemektir Biraz dinlen Sonra yeniden güçlen"
-    },
-    {
-        "baslik": "Kendi Başarını Ölç",
-        "metin": "Başkasının başarısını ölçü olarak kullanma Kendi ilerlemene bak Geçen ay yapamadığın şeyi bugün yapabiliyorsan gelişiyorsun Kendi yolundaki değişimi fark et"
-    },
-    {
-        "baslik": "Kendine Değer Ver",
-        "metin": "Kendine zaman ayır Kendini geliştirmek için fırsatlar oluştur Hatalarında kendini ezme Başarılarında kendini takdir et Çünkü kendine verdiğin değer hayatını da etkiler"
-    },
-    {
-        "baslik": "Bir Gün Her Şey Değişebilir",
-        "metin": "Bugün sıradan görünen bir karar geleceğini değiştirebilir Bir alışkanlık edinmek Bir fırsatı değerlendirmek Ya da yeniden başlamak Hayat bazen küçük kararlarla farklı bir yöne gider"
-    },
-    {
-        "baslik": "Kendini Geçmişinle Sınırlama",
-        "metin": "Daha önce başarısız olmuş olabilirsin Ama geçmişteki sonuçlar gelecekteki sonuçlarını belirlemez Yeni bir yöntem dene Farklı bir yol seç Ve yeniden mücadele et"
-    },
-    {
-        "baslik": "Her Şey Bir Adımla Başlar",
-        "metin": "Büyük hedefler bazen göz korkutabilir Ama bütün yollar ilk adımla başlar Bugün sadece ilk adımı düşün Başla Ve gerisini zaman içinde tamamla"
-    },
-    {
-        "baslik": "Kendini Yarın İçin Hazırla",
-        "metin": "Bugün öğrendiğin her şey yarın işine yarayabilir Bugün kazandığın her deneyim seni geliştirebilir O yüzden bugünü boş geçirme Gelecekteki kendin için çalış"
-    },
-    {
-        "baslik": "Daha Fazla Çaba Göster",
-        "metin": "Bazen istediğin sonuç için biraz daha fazla çaba gerekir Her şey kolay olmayabilir Ama verdiğin ekstra emek seni diğerlerinden ayırabilir Sabret Ve elinden gelenin biraz daha fazlasını yap"
-    },
-    {
-        "baslik": "Kendi Şansını Oluştur",
-        "metin": "Şansın gelmesini beklemek yerine kendini fırsatlara hazırla Çalış Öğren Deneyim kazan Böylece fırsat geldiğinde onu değerlendirecek hazırlığa sahip olursun"
-    },
-    {
-        "baslik": "Bugün Kendine Söz Ver",
-        "metin": "Bugün kendine küçük bir söz ver Bir işi tamamla Bir hedef için çalış Ya da ertelediğin bir şeyi yap Kendine verdiğin sözleri tuttukça kendine güvenin artar"
-    },
-    {
-        "baslik": "Daha Fazla Öğren",
-        "metin": "Her bildiğinin son nokta olduğunu düşünme Öğrenmeye devam et Yeni şeyler keşfet Farklı yollar dene Çünkü öğrenmeye açık kaldığın sürece kendini geliştirme fırsatın vardır"
-    },
-    {
-        "baslik": "Kendini Yeniden Motive Et",
-        "metin": "Motivasyonun düştüğünde neden başladığını hatırla Hedefini yeniden düşün Seni harekete geçiren nedeni bul Ve küçük bir adımla yeniden hareket etmeye başla"
-    },
-    {
-        "baslik": "Bugün Kendine İnanmayı Seç",
-        "metin": "Her şey yolunda gitmese bile kendine olan inancını kaybetme Çünkü bazen sonuçtan önce sabır gerekir Bugün attığın küçük adım yarın büyük bir değişimin başlangıcı olabilir"
-    },
-    {
-        "baslik": "Gücünü Bahanelere Harcama",
-        "metin": "Bahane bulmak kolaydır ama seni ileri taşımaz Elindeki şartlar mükemmel olmayabilir Yine de sahip olduklarınla başlayabilir ve her gün biraz daha ilerleyebilirsin"
-    },
-    {
-        "baslik": "Zor Gün Sana Bir Şey Öğretir",
-        "metin": "Yaşadığın her zorluk seni biraz daha tanıtır Nerede pes ettiğini nerede güçlendiğini gösterir Bugün zorlanıyorsan bunu bir son değil kendini geliştirme fırsatı olarak gör"
-    },
-    {
-        "baslik": "Küçük Başla Büyük Düşün",
-        "metin": "Büyük hedefler bazen gözünü korkutabilir O yüzden tamamını düşünmek yerine bugün yapabileceğin işe odaklan Küçük adımlar birleştiğinde büyük sonuçlar ortaya çıkar"
-    },
-    {
-        "baslik": "Yorulmak Yenilmek Değildir",
-        "metin": "Bazen dinlenmeye ihtiyacın olabilir Bu vazgeçtiğin anlamına gelmez Kendine zaman ver sonra yeniden yoluna devam et Çünkü güçlü olmak hiç yorulmamak değil yeniden başlayabilmektir"
-    },
-    {
-        "baslik": "Kendine Verdiğin Değeri Unutma",
-        "metin": "Başarını başkalarının seni nasıl gördüğü belirlemez Senin verdiğin emek ve gösterdiğin mücadele önemlidir Kendini küçümsemeden yoluna devam et Çünkü sen gelişmeye devam ediyorsun"
-    },
-    {
-        "baslik": "Bugünkü Zorluk Geçici",
-        "metin": "Şu an yaşadığın sıkıntı hayatının tamamı değil Bu dönem de geçecek Önemli olan geçici bir zorlanma yüzünden kalıcı hedeflerinden vazgeçmemek"
-    },
-    {
-        "baslik": "Kendi Hikayeni Yaz",
-        "metin": "Hayatını başkalarının beklentilerine göre yaşamak zorunda değilsin Kendi hedeflerini belirle Kendi kararlarını ver ve attığın her adımla istediğin hayatı biraz daha kendin oluştur"
-    },
-    {
-        "baslik": "Başlamak İçin Mükemmel Zaman Yok",
-        "metin": "Her şeyin hazır olmasını beklersen uzun süre bekleyebilirsin Mükemmel şartları aramak yerine elindeki imkanlarla başla Çünkü ilerledikçe eksiklerini tamamlayabilirsin"
-    },
-    {
-        "baslik": "Bugün Kendini Aş",
-        "metin": "Dün yaptığından biraz daha fazlasını yapman yeterli Kendinle yarış Başkalarının hızına yetişmeye çalışma Asıl önemli olan kendi sınırlarını zamanla genişletebilmen"
-    },
-    {
-        "baslik": "İçindeki Cesareti Kullan",
-        "metin": "Korku seni durdurmak için değil dikkatli ilerlemen için vardır Korkmana rağmen adım atabildiğin gün gerçekten güçlenmeye başlarsın Cesaret korkusuz olmak değil harekete geçmektir"
-    },
-    {
-        "baslik": "Başarı Sabır İster",
-        "metin": "Bir şey için emek verdiğinde hemen sonuç alamayabilirsin Bu normaldir Bazı hedefler zaman ister Bugün görünmeyen ilerleme yarın seni beklemediğin bir noktaya taşıyabilir"
-    },
-    {
-        "baslik": "Dün Geride Kaldı",
-        "metin": "Geçmişte yaptığın hatalar bugününü yönetmek zorunda değil Onlardan dersini al ve yoluna devam et Çünkü önünde hâlâ değiştirebileceğin birçok gün ve değerlendirebileceğin fırsat var"
-    },
-    {
-        "baslik": "Kendine Yeni Bir Hedef Belirle",
-        "metin": "Bazen yönünü kaybettiğini hissedebilirsin Böyle zamanlarda küçük ve net bir hedef belirle Sonra sadece ona odaklan Bir hedefin olduğunda ilerlemek çok daha kolaylaşır"
-    },
-    {
-        "baslik": "Çabanı Kimse Görmese Değerli",
-        "metin": "Sessizce verdiğin mücadele başkalarının gözünden kaçabilir Ama sen ne kadar emek verdiğini biliyorsun Bugün kimse fark etmese bile çalışmaya devam et Çünkü sonuçlar zamanı geldiğinde konuşur"
-    },
-    {
-        "baslik": "Kendini Sabote Etme",
-        "metin": "Bazen önündeki en büyük engel kendi düşüncelerin olabilir Yapamayacağını söyleyen seslere teslim olma Denemeden sonucu bilemezsin Kendine fırsat verdiğinde neler yapabileceğini görebilirsin"
-    },
-    {
-        "baslik": "Bugün Biraz Daha Dayan",
-        "metin": "Belki bugün her şey üst üste geliyor olabilir Ama sadece bugünü tamamlamaya odaklan Her şeyi aynı anda çözmek zorunda değilsin Bir adım at sonra bir adım daha at"
-    },
-    {
-        "baslik": "Hayatındaki Değişim Senden Başlar",
-        "metin": "Daha iyi bir hayat istiyorsan önce kendi davranışlarını değiştirmeye başla Küçük alışkanlıklar zamanla büyük fark oluşturur Değişim bir anda değil her gün verilen kararlarla oluşur"
-    },
-    {
-        "baslik": "İstediğin Sonuca Sadık Kal",
-        "metin": "Yol boyunca fikrin değişebilir ve bazı engeller çıkabilir Ama gerçekten istediğin hedefi biliyorsan kolayca vazgeçme Yöntemini değiştirebilirsin fakat amacına olan bağlılığını koruyabilirsin"
-    },
-    {
-        "baslik": "Kendini Daha Fazla Dinle",
-        "metin": "Herkesin fikrini dinlemek zorunda değilsin Bazen ne istediğini anlamak için kendinle baş başa kalman gerekir İçindeki gerçek isteği fark ettiğinde yolun daha net görünmeye başlar"
-    },
-    {
-        "baslik": "Bugün Attığın Adım Önemli",
-        "metin": "Bugün yaptığın küçük bir çalışma önemsiz gibi görünebilir Ama hiçbir ilerleme bir anda oluşmaz Her tekrar her deneme ve her çaba seni hedefinin biraz daha yakınına götürür"
-    },
-    {
-        "baslik": "Zihnindeki Sınırları Kaldır",
-        "metin": "Kendine sürekli yapamam dersen daha başlamadan kaybedersin Önce denemeye izin ver Sonra eksiklerini gör ve geliştir Çünkü kapasiteni ancak kendine fırsat verdiğinde keşfedebilirsin"
-    },
-    {
-        "baslik": "Kendini Yenilgilerle Tanımlama",
-        "metin": "Bir kez başarısız olman başarısız biri olduğun anlamına gelmez Bir sonuç sadece bir sonuçtur Ondan ders çıkar ve yeniden dene Çünkü yeni bir deneme yeni bir ihtimal demektir"
-    },
-    {
-        "baslik": "Hedefine Sahip Çık",
-        "metin": "Bir hedef belirlediğinde onu günlük hayatının bir parçası haline getir Her gün küçük de olsa onun için bir şey yap Düzenli emek zamanla seni hedefinin olduğu yere taşır"
-    },
-    {
-        "baslik": "Kendine Karşı Sert Değil Güçlü Ol",
-        "metin": "Hata yaptığında kendini tamamen bırakma Yanlışını kabul et ama kendini de küçümse Her insan öğrenirken hata yapar Önemli olan aynı yerde kalmamak ve yeniden ilerlemektir"
-    },
-    {
-        "baslik": "Bugün Dününden Daha Hazır",
-        "metin": "Dün yaşadıkların sana deneyim kazandırdı Bugün aynı sorunla karşılaştığında artık daha fazla şey biliyorsun Geçmişini yük olarak değil seni güçlendiren bir tecrübe olarak kullan"
-    },
-    {
-        "baslik": "Kendi Temponu Koru",
-        "metin": "Herkes aynı hızda ilerlemek zorunda değil Başkasının hızına bakıp moralini bozma Kendi düzenini oluştur ve istikrarlı şekilde devam et Çünkü önemli olan ne kadar hızlı değil ne kadar kararlı ilerlediğindir"
-    },
-    {
-        "baslik": "Başarı İçin Hazırlan",
-        "metin": "Fırsat geldiğinde hazır olmak istiyorsan bugün çalışmalısın Kimsenin görmediği hazırlık dönemleri seni güçlendirir Büyük sonuçların arkasında çoğu zaman uzun bir hazırlık vardır"
-    },
-    {
-        "baslik": "Bugün Kendine Yüklenme",
-        "metin": "Her gün aynı performansı göstermek zorunda değilsin Bazı günler daha yavaş geçebilir Önemli olan tamamen bırakmamak Elinden geleni yap ve yarın yeniden daha güçlü şekilde devam et"
-    },
-    {
-        "baslik": "Kendini Geliştirmek Bir Yolculuk",
-        "metin": "Bir gecede değişmek zorunda değilsin Her gün yeni bir şey öğrenebilir bir hatanı düzeltebilir veya yeni bir alışkanlık kazanabilirsin Küçük gelişimler zamanla büyük bir dönüşüm oluşturur"
-    },
-    {
-        "baslik": "Hayatındaki Farkı Sen Oluştur",
-        "metin": "Birilerinin gelip hayatını değiştirmesini bekleme Kendi kararlarını almaya başla Bugün değiştirebileceğin bir şeyi değiştir ve yarın için daha sağlam bir temel oluştur"
-    },
-    {
-        "baslik": "Kendine Bir Amaç Bul",
-        "metin": "Nereye gittiğini bilmediğinde yol daha yorucu gelir Kendin için anlamlı bir amaç belirle Sonra attığın adımları bu amaca göre şekillendir Böylece çabanın nedenini daha iyi hissedersin"
-    },
-    {
-        "baslik": "Engeller Yolun Sonu Değil",
-        "metin": "Karşına çıkan engel hedefinden vazgeçmen gerektiğini göstermez Belki farklı bir yöntem denemen gerekiyordur Durumu değerlendir çözüm ara ve yeniden harekete geç"
-    },
-    {
-        "baslik": "Kendi Potansiyeline Fırsat Ver",
-        "metin": "Henüz yapamadığın bir şey senin asla yapamayacağın anlamına gelmez Öğrenmek için zaman ayır tekrar et ve sabırlı ol Bugünkü eksikliğin yarının becerisine dönüşebilir"
-    },
-    {
-        "baslik": "İstikrarını Koru",
-        "metin": "Bazen çok çalışmak değil düzenli çalışmak daha önemlidir Bir gün büyük çaba gösterip sonra uzun süre bırakmak yerine her gün küçük bir adım at Süreklilik seni hedefe taşır"
-    },
-    {
-        "baslik": "Kendine Yeni Bir Şans Aç",
-        "metin": "Geçmişte istediğin sonucu alamamış olabilirsin Ama yeni bir gün yeni bir fırsattır Eski sonucu geleceğinin kararı gibi görme Yeniden deneyebilir ve farklı bir yol seçebilirsin"
-    },
-    {
-        "baslik": "Düşünmekten Çok Hareket Et",
-        "metin": "Fazla düşünmek bazen başlamanı geciktirir Planını yap ve ilk küçük hareketi gerçekleştir Hareket ettikçe neyi düzeltmen gerektiğini daha net göreceksin"
-    },
-    {
-        "baslik": "Zorlanmak Gelişimin Parçası",
-        "metin": "Yeni bir şey öğrenirken zorlanman normaldir Zorluk çoğu zaman geliştiğinin işaretidir Hemen vazgeçmek yerine biraz daha dene Çünkü beceri tekrarın içinde oluşur"
-    },
-    {
-        "baslik": "Kendine Karşı İnancını Koru",
-        "metin": "Çevrenden destek görmediğin zamanlar olabilir Böyle anlarda kendi nedenini hatırla Neden başladığını bildiğin sürece başkalarının şüpheleri seni yolundan kolayca çeviremez"
-    },
-    {
-        "baslik": "Bugün Bir Karar Ver",
-        "metin": "Hayatında değiştirmek istediğin bir şey varsa sürekli erteleme Bugün küçük bir karar al ve onu uygulamaya koy Çünkü değişim düşüncede başladığında davranışla gerçeğe dönüşür"
-    },
-    {
-        "baslik": "Kendini Geleceğe Hazırla",
-        "metin": "Gelecekte nasıl biri olmak istiyorsan bugünkü seçimlerini ona göre yap Öğrenmek çalışmak ve sabırlı olmak seni istediğin noktaya hazırlayacak küçük ama değerli yatırımlardır"
-    },
-    {
-        "baslik": "Daha İyi Olmak İçin Tekrar Dene",
-        "metin": "İlk denemende istediğin sonucu alamadıysan bunu son olarak görme Nerede eksik kaldığını bul ve yeniden dene Her tekrar seni daha deneyimli ve daha hazırlıklı hale getirir"
-    },
-    {
-        "baslik": "Kendine Karşı Umudunu Kaybetme",
-        "metin": "Bazı dönemlerde her şey durmuş gibi hissedilebilir Ama hayat her zaman aynı yerde kalmaz Bugün göremediğin değişim zamanla ortaya çıkabilir Yeter ki umudunu koruyup ilerlemeye devam et"
-    },
-    {
-        "baslik": "Çalışırken Kendini Hatırla",
-        "metin": "Hedeflerine ulaşmak için çalışırken kendini tamamen unutma Dinlenmeye öğrenmeye ve nefes almaya da zaman ayır Dengeli ilerlediğinde uzun vadede daha sağlam kalabilirsin"
-    },
-    {
-        "baslik": "Kendi Başlangıcını Küçümseme",
-        "metin": "Bugün başladığın yer istediğin nokta olmayabilir Ama herkes bir yerden başlar Önemli olan nerede olduğun değil zaman içinde ne kadar yol kat ettiğindir"
-    },
-    {
-        "baslik": "Hayaline Yaklaşmaya Devam Et",
-        "metin": "Hayalin uzak görünebilir Bu seni durdurmasın Uzak hedefler bile her gün atılan küçük adımlarla yaklaşılır Bugün yapabileceğin şeyi yap ve yarın bir adım daha ekle"
-    },
-    {
-        "baslik": "Kendine Karşı Güçlü Dur",
-        "metin": "Zor kararlar aldığında çevren seni anlamayabilir Ama hayatının sorumluluğunu sen taşıyorsun Doğru bildiğin yolda sakin kal ve kararlarının sonuçlarını öğrenerek ilerle"
-    },
-    {
-        "baslik": "Bugünün Emeği Yarınki Güç",
-        "metin": "Şimdi verdiğin emek hemen karşılık bulmayabilir Fakat öğrendiğin her şey ve kazandığın her deneyim gelecekte işine yarar Bugün kendin için yaptığın yatırım boşa gitmez"
-    },
-    {
-        "baslik": "Kendini Yeniden Toplama Zamanı",
-        "metin": "Ne kadar dağılmış hissedersen hisset yeniden düzen kurabilirsin Önce küçük bir adım seç Sonra bir diğerini ekle Hayatını toparlamak tek bir büyük hareket değil birçok küçük karardan oluşur"
-    },
-    {
-        "baslik": "İçindeki Güveni Besle",
-        "metin": "Kendine güven bir anda oluşmaz Verdiğin sözleri tuttukça ve zorlukları aştıkça güçlenir Bugün kendine küçük bir söz ver ve onu yerine getir Böylece kendi güvenini yeniden inşa edersin"
-    }
-
-]
+{
+"baslik": "Vazgeçme Zamanı Değil",
+"metin": "Yoruldun diye bırakma Çünkü en güzel sonuçlar sabrın sonunda gelir Bugün zorlanıyor olabilirsin Ama yarın bu günleri gururla hatırlayabilirsin Devam et ve kendine inan"
+},
+{
+"baslik": "Sessizce İlerle",
+"metin": "Herkese ne yapacağını anlatma Sessizce çalış sessizce ilerle Sonuçların senin yerine konuşsun Çünkü gerçek başarı sözle değil emekle oluşur"
+},
+{
+"baslik": "Düşmek Yenilmek Değildir",
+"metin": "Düştüğün zaman kendini başarısız sanma Düşmek yolun bir parçasıdır Önemli olan yerde kalmamak Her düştüğünde yeniden kalk ve yoluna devam et"
+},
+{
+"baslik": "Bugün Zor Yarın Güçlü",
+"metin": "Bugün yaptığın fedakarlık yarının gücü olur Bugün çektiğin zorluk yarının gururu olur Kolay yolu değil doğru yolu seç Çünkü güçlü insanlar zor günlerde yetişir"
+},
+{
+"baslik": "Kimse Senin Yerine Başaramaz",
+"metin": "Hayalini kimse senin yerine gerçekleştiremez Yolunu kimse senin yerine yürüyemez Bu yüzden başkalarını bekleme Kendine güven ve ilk adımı bugün at"
+},
+{
+"baslik": "Zamanını Değerlendir",
+"metin": "Zaman durmaz hayat beklemez Her geçen gün sana yeni bir fırsat verir Bugünü boş geçirirsen yarın pişman olursun Bugün çalışırsan yarın karşılığını bulursun"
+},
+{
+"baslik": "Kendini Geç",
+"metin": "Başkalarıyla yarışmak yerine dünkü halini geç Her gün biraz daha öğren her gün biraz daha güçlen Büyük değişimler küçük adımlarla başlar"
+},
+{
+"baslik": "Hayalin İçin Savaş",
+"metin": "Bir hayalin varsa onun peşinden git İnsanlar konuşabilir yollar kapanabilir Ama sen vazgeçmezsen yeni yollar açılır Hayaline sahip çık ve sonuna kadar savaş"
+},
+{
+"baslik": "Başarı Sabır İster",
+"metin": "Tohum bugün ekilir ama meyve hemen gelmez Başarı da böyledir Emek ver sabret ve bekle Çünkü güzel sonuçlar zaman ister"
+},
+{
+"baslik": "Korkuna Rağmen Yürü",
+"metin": "Korkmak normaldir ama korkunun seni durdurmasına izin verme Cesaret korkusuz olmak değildir Korkuya rağmen yürümektir Bir adım at ve kendini aş"
+},
+{
+"baslik": "Bahaneleri Bırak",
+"metin": "Bugün vaktim yok deme Bugün gücüm yok deme Her zaman bir sebep bulabilirsin Ama sonuç almak istiyorsan bahaneleri bırak ve çalışmaya başla"
+},
+{
+"baslik": "Kendi Hikayeni Yaz",
+"metin": "Hayatını başkalarının sözleriyle yaşama Kendi kararını kendin ver Kendi yolunu kendin çiz Çünkü bu hayat senin ve hikayeni yazacak olan sensin"
+},
+{
+"baslik": "Gücünü Hatırla",
+"metin": "Bazen kendini güçsüz hissedebilirsin Ama geçmişte aştığın zorlukları unutma Sen sandığından daha güçlüsün Biraz daha dayan ve yeniden ayağa kalk"
+},
+{
+"baslik": "Bugün Kaybetme",
+"metin": "Dün geçti yarın daha gelmedi Elinde sadece bugün var Bugünü iyi değerlendir Çünkü bugün attığın adım yarının sonucunu belirler"
+},
+{
+"baslik": "Emek Karşılıksız Kalmaz",
+"metin": "Verdiğin emek hemen görünmeyebilir Ama hiçbir çaba tamamen kaybolmaz Her çalışma seni hedefe biraz daha yaklaştırır Sabret ve çalışmaya devam et"
+},
+{
+"baslik": "Zirveye Tek Başına Çık",
+"metin": "Herkes yanında olmayabilir Bazı yolları tek başına yürüyebilirsin Ama yalnız yürümek başarısız olduğun anlamına gelmez Bazen en güçlü adımlar sessizlikte atılır"
+},
+{
+"baslik": "Küçük Başla Büyük Bitir",
+"metin": "Büyük hedeflerden korkma Küçük bir adımla başla Sonra bir adım daha at Her gün biraz ilerle Çünkü küçük adımlar birleşince büyük başarılar oluşur"
+},
+{
+"baslik": "İmkansız Deme",
+"metin": "Henüz yapamadığın şey imkansız değildir Belki sadece daha fazla zaman ve emek istiyordur Kendine bir şans ver Denemeye devam et ve sınırlarını aş"
+},
+{
+"baslik": "Yolun Sonunu Düşün",
+"metin": "Bugün çektiğin zorluğu düşünme Ulaşacağın günü düşün Bugün yorulabilirsin ama yarın gurur duyabilirsin Sabret çalış ve hedefinden uzaklaşma"
+},
+{
+"baslik": "Kendine Söz Ver",
+"metin": "Bugün kendine bir söz ver Ne olursa olsun vazgeçmeyeceğim de Yorulsam da devam edeceğim de Çünkü insan önce kendine verdiği sözü tutunca değişmeye başlar"
+},
+{
+"baslik": "Disiplin Seni Taşır",
+"metin": "Her gün motive olamazsın Ama her gün disiplinli olabilirsin İstemediğin günlerde bile devam et Çünkü başarı hislerine değil alışkanlıklarına bağlıdır"
+},
+{
+"baslik": "Daha Güçlü Ol",
+"metin": "Yaşadığın her zorluk seni biraz daha güçlendirir Bugün seni üzen şey yarın sana güç verir O yüzden yaşadıklarından kaçma Onlardan güç al ve ilerle"
+},
+{
+"baslik": "Son Bir Kez Daha",
+"metin": "Bırakmak istediğinde kendine son bir kez daha dene de Belki aradığın sonuç bir adım sonradır Belki hayatının en güzel günü pes etmeye karar verdiğin gündür"
+},
+{
+"baslik": "Kendi Değerini Bil",
+"metin": "Başkalarının seni görmediği yerde sen kendini gör Değerini başkasının sözü belirlemez Kendine yatırım yap kendine güven ve kendi yolunda ilerle"
+},
+{
+"baslik": "Zor Olanı Seç",
+"metin": "Kolay olan herkesin seçtiği yoldur Zor olan ise seni farklı yapar Bugün zor olanı seç Çünkü büyümek rahatlıkta değil mücadelede başlar"
+},
+{
+"baslik": "Başlangıç İçin Geç Değil",
+"metin": "Kaç yaşında olduğun önemli değil Önemli olan ne zaman başlayacağındır Dün başlamadıysan bugün başla Çünkü yeni bir hayat bazen tek bir kararla başlar"
+},
+{
+"baslik": "Sabır Kazandırır",
+"metin": "Hızlı sonuç isteyen çoktur Ama sabreden azdır Sen az olanı seç Sabret çalış ve devam et Çünkü kalıcı başarı sabırlı insanların yanında kalır"
+},
+{
+"baslik": "Kendine İnan",
+"metin": "Herkes sana inanmak zorunda değil Ama sen kendine inanmalısın Bir kişi bile sana güvenmiyorsa o kişi sen olma Kendinin yanında dur ve yürümeye devam et"
+},
+{
+"baslik": "Yarın İçin Bugün Çalış",
+"metin": "Gelecekte olmak istediğin insan bugün yaptıklarınla oluşur Bugün ne kadar emek verirsen yarın o kadar güçlenirsin Geleceğini bekleme onu bugün kur"
+},
+{
+"baslik": "Yeniden Başla",
+"metin": "Her şey kötü gittiyse yeniden başla Bir plan bozulduysa yeni plan yap Bir yol kapandıysa başka yol bul Çünkü başarısızlık son değil yeniden başlamak için bir derstir"
+},
+{
+"baslik": "Pes Etmek Sana Yakışmaz",
+"metin": "Bunca yolu boşuna gelmedin Şimdi birkaç zorluk yüzünden durma Geçmişte nasıl başardıysan bugün de başarabilirsin Biraz daha dayan ve yoluna devam et"
+},
+{
+"baslik": "Hayat Bekleyenleri Değil Çalışanları Ödüllendirir",
+"metin": "Sadece istemek yetmez Hayalin için çalışman gerekir Sadece düşünmek yetmez harekete geçmen gerekir Çünkü hayat bekleyenleri değil mücadele edenleri öne çıkarır"
+},
+{
+"baslik": "Karanlıktan Sonra Işık",
+"metin": "Şu an karanlıkta olabilirsin Ama bu sonsuza kadar sürmez Her gecenin bir sabahı vardır Her zorluğun bir sonu vardır Sabret ve ışığa doğru yürümeye devam et"
+},
+{
+"baslik": "Bugün Kendini Aş",
+"metin": "Dün yaptığından biraz daha iyisini yap Bugün kendini biraz daha geliştir Çünkü büyük değişim bir anda değil her gün yapılan küçük gelişimlerle gelir"
+},
+{
+"baslik": "Çalış Ve Bekle",
+"metin": "Tohumunu ek suyunu ver ve bekle Her şey hemen büyümez Emek verdiğin şeyin zamanını bekle Çünkü sabırla büyüyen başarı kolay kolay yıkılmaz"
+},
+{
+"baslik": "Yorulabilirsin Ama Durma",
+"metin": "Yorulmak normaldir Dinlenmek normaldir Ama tamamen vazgeçmek zorunda değilsin Biraz nefes al sonra yeniden başla Çünkü hedefin seni bekliyor"
+},
+{
+"baslik": "Kendi Yolunda Kal",
+"metin": "Başkasının hızına bakıp kendini küçümse Herkesin yolu farklıdır Sen kendi yoluna odaklan Bugün yavaş olabilirsin ama önemli olan ileri gitmendir"
+},
+{
+"baslik": "Sonuç İçin Sabret",
+"metin": "Emek verip sonuç göremediğinde üzülme Bazı başarılar sessizce büyür Sen fark etmeden yol alırsın Sonra bir gün dönüp ne kadar ilerlediğini görürsün"
+},
+{
+"baslik": "Kendine Engel Olma",
+"metin": "Bazen önündeki en büyük engel korkularındır Kendine yapamam deme Daha denemeden karar verme Bir kez dene sonra bir kez daha dene ve kendini şaşırt"
+},
+{
+"baslik": "Güçlü Kal",
+"metin": "Hayat her zaman istediğin gibi gitmez Bazen planların bozulur bazen yollar kapanır Ama sen güçlü kal Çünkü güçlü olan insan şartlara değil hedefine bakar"
+},
+{
+"baslik": "Hedefinden Uzaklaşma",
+"metin": "Yol uzunsa sabret Yokuş varsa tırman Hava kötüyse bekle ama hedefinden vazgeçme Çünkü hedefe ulaşanlar yolun kolay olmasını değil devam etmeyi seçer"
+},
+{
+"baslik": "Bir Gün Olacak",
+"metin": "Bugün hayal ettiğin şey bir gün gerçek olabilir Yeter ki çalışmayı bırakma Bugün kimse görmese bile sen devam et Çünkü emek zamanı gelince kendini gösterir"
+},
+{
+"baslik": "Kendini Küçümseme",
+"metin": "Yaptığın küçük şeyleri küçümse Küçük başarılar büyük güven oluşturur Her gün biraz ilerlemek hiç ilerlememekten daha iyidir Sen devam ettikçe değişeceksin"
+},
+{
+"baslik": "Zorluk Seni Seçti",
+"metin": "Önüne çıkan zorluk seni durdurmak için değil güçlendirmek için olabilir Her mücadele sana yeni bir şey öğretir Dersini al yoluna devam et ve daha güçlü dön"
+},
+{
+"baslik": "Hayatını Değiştir",
+"metin": "Hayatının değişmesini istiyorsan önce alışkanlıklarını değiştir Her gün aynı şeyi yapıp farklı sonuç bekleme Yeni bir adım at yeni bir düzen kur ve kendini geliştir"
+},
+{
+"baslik": "Bugün Vazgeçme",
+"metin": "Belki bugün istediğin sonucu alamadın Ama bu yolun bittiği anlamına gelmez Bir gün daha dene Bir adım daha at Çünkü bazen başarı vazgeçmeden hemen önce gelir"
+},
+{
+"baslik": "Kendine Yatırım Yap",
+"metin": "Paranı değil sadece zamanını da doğru kullan Kendine bilgi kat beceri kat güç kat Çünkü kendine yaptığın yatırım hayat boyunca seninle kalır"
+},
+{
+"baslik": "Başarı İçin Uyan",
+"metin": "Herkes uyurken sen hedefin için hazırlan Herkes bahane bulurken sen çözüm ara Herkes vazgeçerken sen devam et Çünkü farkı oluşturan şey kararlılıktır"
+},
+{
+"baslik": "Bir Adım Daha",
+"metin": "Artık yapamam dediğin anda bir adım daha at Belki gücünün sınırı sandığın yer yeni başlangıcındır Kendine biraz daha zaman ver ve yoluna devam et"
+},
+{
+"baslik": "Hayalini Erteleme",
+"metin": "Hayalini sürekli yarına bırakma Çünkü yarın her zaman gelmez Bugün elinden geleni yap Bir adım bile olsa başla Çünkü başlangıç olmadan sonuç gelmez"
+},
+{
+"baslik": "Sen Değişirsen Hayat Değişir",
+"metin": "Aynı düşünceler aynı sonuçları getirir Farklı bir hayat istiyorsan farklı düşün farklı davran ve farklı çalış Değişim dışarıda değil önce sende başlar"
+},
+{
+"baslik": "Mücadeleden Kaçma",
+"metin": "Mücadele varsa gelişim vardır Zorluk varsa güç vardır Sen kolay yolu aramak yerine kendini geliştirecek yolu seç Çünkü her mücadele seni hedefe yaklaştırır"
+},
+{
+"baslik": "Geriye Değil İleriye Bak",
+"metin": "Geçmişte yaptığın hatalara takılıp kalma Onlardan ders al ve yoluna devam et Geçmiş değişmez ama bugününü değiştirerek yarınını değiştirebilirsin"
+},
+{
+"baslik": "Bugünün Emeği Yarının Gücü",
+"metin": "Bugün çalışırken kimse seni fark etmeyebilir Ama yarın sonuçlarını herkes görebilir Görünmek için değil gelişmek için çalış Çünkü gerçek başarı sessiz büyür"
+},
+{
+"baslik": "Kendi Şansını Yarat",
+"metin": "Şans bekleme fırsat oluştur Hazır ol ve çalış Karşına çıkan fırsatı değerlendirmek için önce kendini hazırla Çünkü emek veren insan şansını kendi yaratır"
+},
+{
+"baslik": "Sonuna Kadar Git",
+"metin": "Başladıysan yarıda bırakma Yolun zor olabilir zaman uzun olabilir Ama hedefin değerliyse mücadeleye değerdir Sonuna kadar git ve kendine verdiğin sözü tut"
+},
+{
+"baslik": "Kendini Bahanelerden Kurtar",
+"metin": "Her bahane seni hedefinden uzaklaştırır Her adım seni hedefine yaklaştırır Bugün bir bahane daha bırak ve bir adım daha at Çünkü değişim karar verdiğin anda başlar"
+},
+{
+"baslik": "Zor Günler Seni Büyütür",
+"metin": "Kolay günler sana huzur verir Zor günler sana güç verir Yaşadığın her mücadele seni biraz daha büyütür O yüzden kaçma dayan ve güçlen"
+},
+{
+"baslik": "Kendi Işığını Bul",
+"metin": "Herkesin yolu aydınlık olmayabilir Bazen kendi ışığını kendin yakmalısın Küçük bir umut bile yeter Yeter ki karanlıkta yürümekten korkma"
+},
+{
+"baslik": "Başlamak İçin Bekleme",
+"metin": "Daha hazır değilim deme Kimse tamamen hazır olmaz Önce başlarsın sonra öğrenirsin Sonra güçlenirsin ve sonunda başardığını görürsün"
+},
+{
+"baslik": "Kendine Bir Şans Ver",
+"metin": "Başkalarına verdiğin şansı kendine de ver Hata yapabilirsin düşebilirsin yeniden başlayabilirsin Önemli olan kendinden vazgeçmemen"
+},
+{
+"baslik": "Zirve Sabır İster",
+"metin": "Zirveye çıkan yol kısa değildir Bazen yorulursun bazen yalnız kalırsın Ama her adım seni biraz daha yukarı taşır Sabret ve tırmanmaya devam et"
+},
+{
+"baslik": "Kendini Kanıtlamak Zorunda Değilsin",
+"metin": "Herkese kendini kanıtlamak zorunda değilsin Sen sadece kendine verdiğin sözü tut Çalış geliş ve ilerle Sonuç geldiğinde zaten herkes görecek"
+},
+{
+"baslik": "Bugün Dünden Güçlüsün",
+"metin": "Dün yaşadığın zorluk seni bugün daha güçlü yaptı Bugün yaşadığın zorluk da yarın seni büyütecek Hiçbir mücadele boşuna değildir Yeter ki dersini al"
+},
+{
+"baslik": "Korku Yolunu Kesmesin",
+"metin": "Korku sana dur diyebilir Ama kalbin devam et diyorsa dinle Kendine güven ve adım at Çünkü cesaret korkunun yokluğu değil korkuya rağmen yürümektir"
+},
+{
+"baslik": "Hayalin İçin Uyan",
+"metin": "Sabah uyandığında hedefini hatırla Gününü ona göre yaşa Her küçük çalışma seni biraz daha yaklaştırır Hayalin uzak görünse bile yürümeye devam et"
+},
+{
+"baslik": "Çabanı Küçümseme",
+"metin": "Bugün yaptığın küçük çalışma yarın büyük sonuç verebilir Hiçbir emek boşa gitmez Belki sonucu bugün görmezsin Ama zamanla farkı mutlaka görürsün"
+},
+{
+"baslik": "Yol Uzun Diye Dönme",
+"metin": "Yolun uzun olması hedefinden vazgeçmen için sebep değil Her uzun yol ilk adımla başlar Bugün bir adım at yarın bir adım daha at"
+},
+{
+"baslik": "Kendi Temponla İlerle",
+"metin": "Başkalarının hızına yetişmek zorunda değilsin Kendi hızında ilerle Yeter ki durma Yavaş ilerlemek sorun değil Geriye gitmek sorun"
+},
+{
+"baslik": "Emek Sessizdir",
+"metin": "Emek verirken ses çıkmaz Sonuç geldiğinde herkes konuşur Bugün sessizce çalış Yarın sonuçların senin adına konuşsun"
+},
+{
+"baslik": "Güçlü Olmayı Öğren",
+"metin": "Güçlü olmak hiç düşmemek değildir Her düştüğünde ayağa kalkabilmektir Hayat seni kaç kez yere indirirse indirsin Sen yeniden ayağa kalk"
+},
+{
+"baslik": "Hedefin Seni Bekliyor",
+"metin": "Hedefin olduğu yerde umut vardır Umudun olduğu yerde mücadele vardır Mücadele ettiğin sürece yol devam eder Sen sadece yürümeye devam et"
+},
+{
+"baslik": "Daha İyisi Mümkün",
+"metin": "Bugün olduğun yerde kalmak zorunda değilsin Daha iyisini öğrenebilir daha güçlüsünü yapabilirsin Kendine inan ve her gün biraz daha ilerle"
+},
+{
+"baslik": "Kendine Rakip Ol",
+"metin": "Başkalarını geçmek için değil kendini geliştirmek için yarış Dün olduğundan daha iyi ol Bugün attığın adım yarınki seni oluşturur"
+},
+{
+"baslik": "Hayatını Erteleme",
+"metin": "Bir gün yaparım deme O gün belki hiç gelmez Bugün elinden geleni yap Hayalini bekletme Çünkü hayat bekleyenlere değil yaşayanlara aittir"
+},
+{
+"baslik": "Bir Gün Teşekkür Edeceksin",
+"metin": "Bugün zorlanırken kendine kızma Bir gün bu mücadele için kendine teşekkür edeceksin Çünkü bugün pes etmediğin için yarın başka bir hayatın olacak"
+},
+{
+"baslik": "Daha Fazla Dayan",
+"metin": "Biraz daha dayan Biraz daha çalış Biraz daha sabret Belki aradığın sonuç sandığından daha yakındır Vazgeçmeden önce kendine bir şans daha ver"
+},
+{
+"baslik": "Hedefine Sadık Kal",
+"metin": "Her gün aynı güçte olmayabilirsin Ama hedefin aynı kalabilir Bugün az yap yarın daha fazla yap Yeter ki hedefinden kopma"
+},
+{
+"baslik": "Küçük Zaferleri Kutla",
+"metin": "Her başarı büyük olmak zorunda değil Bugün yaptığın küçük ilerlemeyi de gör Çünkü küçük zaferler zamanla büyük bir hikayeye dönüşür"
+},
+{
+"baslik": "Düşünme Başla",
+"metin": "Fazla düşünmek bazen seni durdurur Sürekli plan yapmak yerine küçük bir adım at Başladıkça yolunu öğrenirsin Yürüdükçe güçlenirsin"
+},
+{
+"baslik": "Kendini Toparla",
+"metin": "Dağıldıysan kendini toparla Yorulduysan biraz dinlen Ama kendinden vazgeçme Hayat bazen seni durdurur ama yeniden başlamak her zaman senin elindedir"
+},
+{
+"baslik": "Gücünü Doğru Kullan",
+"metin": "Enerjini şikayete değil çözüme harca Zamanını korkuya değil gelişime ayır Çünkü hayatını değiştiren şey ne düşündüğün değil ne yaptığındır"
+},
+{
+"baslik": "Bugün Bir Fırsat",
+"metin": "Bugün sana verilmiş yeni bir fırsat Dün ne olduysa oldu Bugün yeniden başlayabilirsin Bir karar ver ve hayatını değiştirecek ilk adımı at"
+},
+{
+"baslik": "Sessizlikte Büyü",
+"metin": "Herkese planlarını anlatmak zorunda değilsin Sessizce çalış sessizce öğren sessizce büyü Sonuçların geldiğinde zaten söz söylemene gerek kalmaz"
+},
+{
+"baslik": "Zor Seçim Güçlü İnsan",
+"metin": "Kolay olanı seçmek rahatlatır Zor olanı seçmek geliştirir Bugün seni geliştirecek olanı seç Çünkü rahatlık değil mücadele seni güçlendirir"
+},
+{
+"baslik": "Kendine İnanarak Başla",
+"metin": "İlk adımda her şeyi bilmek zorunda değilsin Önce inan sonra öğren sonra geliştir Yeter ki kendine bir şans ver ve başlamaktan korkma"
+},
+{
+"baslik": "Geri Dönme",
+"metin": "Bazen geriye dönmek kolay gelir Çünkü ilerlemek emek ister Ama sen kolay olanı değil seni büyütecek olanı seç Yoluna bak ve devam et"
+},
+{
+"baslik": "Zaman Senin Tarafında",
+"metin": "Bugün küçük görünen emek yarın büyük sonuç olabilir Zaman geçtikçe sabrın karşılığını alırsın Yeter ki doğru yolda kal ve çalışmayı bırakma"
+},
+{
+"baslik": "Kendine Değer Ver",
+"metin": "Kendini sürekli başkalarıyla kıyaslama Senin yolun sana ait Senin hikayen sana özel Kendine değer ver ve kendi gelişimine odaklan"
+},
+{
+"baslik": "Daha Yeni Başlıyorsun",
+"metin": "Bugüne kadar ne yaşadıysan yaşa Bundan sonrası senin elinde Geçmiş seni tanımlamaz Bugün vereceğin karar yeni bir başlangıç olabilir"
+},
+{
+"baslik": "Hedefini Unutma",
+"metin": "Yorulduğunda neden başladığını hatırla İlk günkü hayalini düşün Seni yola çıkaran sebebi hatırla Sonra ayağa kalk ve devam et"
+},
+{
+"baslik": "Sabırla Devam Et",
+"metin": "Sonuç hemen gelmeyebilir Ama bu emek vermediğin anlamına gelmez Bazı şeyler zaman ister Sen çalışmaya devam et zaman gerisini halleder"
+},
+{
+"baslik": "Hayat Bir Yarış Değil",
+"metin": "Herkesin zamanı farklıdır Biri erken başarır biri geç başarır Önemli olan kendi yolunda ilerlemektir Başkasına değil kendine odaklan"
+},
+{
+"baslik": "Günün Değerini Bil",
+"metin": "Bir gün daha geçtiğinde geri gelmez Bugünü boşa harcama Öğren çalış sev ve geliş Çünkü bugün yarının temelini oluşturur"
+},
+{
+"baslik": "Pes Etmeden Önce Düşün",
+"metin": "Bırakmadan önce ne kadar yol geldiğini düşün Kaç kez düştüğünü değil kaç kez kalktığını hatırla Belki de sandığından daha güçlüsün"
+},
+{
+"baslik": "Başarı Yakındır",
+"metin": "Bazen başarı çok uzakta gibi görünür Ama aslında son birkaç adım kalmış olabilir Sen devam et çünkü vazgeçtiğin an bütün emeğini geride bırakırsın"
+},
+{
+"baslik": "Kendi Kararını Ver",
+"metin": "Hayatını başkalarının düşüncelerine göre yaşama Ne istediğini düşün ve kararını ver Sonra o kararın arkasında dur Çünkü hayat senin seçimlerinle şekillenir"
+},
+{
+"baslik": "Gücün İçinde",
+"metin": "Aradığın güç bazen dışarıda değildir İçinde saklıdır Sadece kendine güvenmen ve harekete geçmen gerekir Bir adım at ve içindeki gücü gör"
+},
+{
+"baslik": "Bugün Çalış Yarın Rahat Et",
+"metin": "Bugün verdiğin emek yarının yükünü azaltır Şimdi biraz zorlan ama geleceğini kolaylaştır Çünkü bugünün disiplini yarının rahatlığını hazırlar"
+},
+{
+"baslik": "Kendini Yenile",
+"metin": "Eski alışkanlıkların seni eski yerde tutuyorsa değişme zamanı gelmiştir Yeni bir düzen kur Yeni hedefler belirle ve kendine yeni bir yol aç"
+},
+{
+"baslik": "Yolunu Kendin Aç",
+"metin": "Önünde yol yoksa kendi yolunu aç Kimsenin sana hazır bir fırsat vermesini bekleme Çalış öğren dene ve kendi fırsatını kendin oluştur"
+},
+{
+"baslik": "Güzel Günler Gelecek",
+"metin": "Bugün ne kadar zor olursa olsun güzel günler yine gelecek Yeter ki umudunu kaybetme Kendine güven ve bugün yapabileceğin en iyi şeyi yap"
+},
+{
+"baslik": "Başarısızlıktan Korkma",
+"metin": "Başarısız olmak denememekten daha kötü değildir Asıl kayıp hiç denememektir Hata yap öğren yeniden dene ve her seferinde daha güçlü ilerle"
+},
+{
+"baslik": "Kendine Yatırım Yap",
+"metin": "Her gün yeni bir şey öğren Kendini geliştir Çünkü sahip olduğun bilgi ve beceri senin gerçek gücündür Kendine yatırım yaptıkça geleceğini güçlendirirsin"
+},
+{
+"baslik": "Zorluklar Geçicidir",
+"metin": "Bugünkü sorun yarının hikayesi olabilir Şu an ağır gelen şey zamanla hafifler Sabret mücadele et ve unutma hiçbir zorluk sonsuza kadar sürmez"
+},
+{
+"baslik": "Bir Şans Daha",
+"metin": "Kendine bir şans daha ver Belki bu kez farklı olacak Belki bu kez başaracaksın Denemeden sonucu bilemezsin O yüzden yeniden başla"
+},
+{
+"baslik": "İnandığın Yolda Yürü",
+"metin": "Herkes senin hayalini anlamayabilir Ama hayalin sana ait Eğer gerçekten inanıyorsan çalış ve ilerle Sonucu gördüğünde neden devam ettiğini anlayacaksın"
+},
+{
+"baslik": "Bugün Güçlü Ol",
+"metin": "Bugün güçlü ol çünkü yarın daha kolay olabilir Kendine güven zor günleri aş ve yoluna devam et Her yeni gün sana yeniden başlama fırsatı verir"
+}
+    ]
